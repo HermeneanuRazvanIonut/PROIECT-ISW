@@ -87,7 +87,7 @@ wordlabel.place(x=180,y=150)
 leftchances = Label(root,text='',font=('chiller',25,'bold'),bg='#C70039', borderwidth=1, relief="solid")
 leftchances.place(x=550,y=100)
 
-ans = Label(root,text='',font=('chiller',25,'bold'),bg='#676767', borderwidth=1, relief="solid")
+ans = Label(root,text='',font=('arial',25,'bold'),bg='#676767', borderwidth=1, relief="solid")
 ans.place(x=80,y=440)
 
 #-------------------------------------------------------
