@@ -78,7 +78,7 @@ root.iconbitmap('iconita.ico')
 root.title('Spânzurătoarea')
 
 #-------------------------------------------------------
-introlabel = Label(root,text='Hai sa jucam spanzuratoarea',font=('chiller',35,'bold'),bg='#676767', borderwidth=1, relief="solid")
+introlabel = Label(root,text='Hai sa jucam spanzuratoarea',font=('arial',35,'bold'),bg='#676767', borderwidth=1, relief="solid")
 introlabel.place(x=200,y=0)
 
 wordlabel = Label(root,text='',font=('chiller',55,'bold'),bg='#676767', borderwidth=1, relief="solid")
