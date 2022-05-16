@@ -93,7 +93,7 @@ ans.place(x=80,y=440)
 #-------------------------------------------------------
 
 inpp = StringVar()
-input1 = Entry(root,font=('chiller',25,'bold'),relief=RIDGE,bd=5,bg='black',justify='center',fg='white',textvariable=inpp)
+input1 = Entry(root,font=('chiller',25,'bold'),relief=RIDGE,bd=5,bg='blue',justify='center',fg='white',textvariable=inpp)
 input1.focus_set()
 input1.place(x=210,y=250)
 #-------------------------------------------------------
